@@ -1,0 +1,22 @@
+.contain{
+    position: relative;
+    height: 45rem;;
+}
+
+.pagination-new {
+    margin-left: 25rem;
+ }
+ .btn-Detail{
+    border-radius: 5%;
+    /* background-color: black; */
+    border: solid 1px black;
+    width: 150px;
+    color: black;
+ } 
+ .btn-Detail:active{
+    border-radius: 5%;
+    background-color: black;
+    border: solid 1px black;
+    width: 150px;
+    color: white;
+ } 
